@@ -4,7 +4,7 @@ url: "http://stfwlg.github.io"    # the protocol and hostname of your site, eg. 
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  Search.The.Fuckin.Web.Like.Google
 
 # Your information
 email: stfwlg@gmail.com
