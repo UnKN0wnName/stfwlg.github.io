@@ -1,5 +1,5 @@
 # jekyll-theme-EasyBook
-a
+
 Another Jekyll Blog Theme "EasyBook"
 
 Start blogging with a simple but powerful theme.
