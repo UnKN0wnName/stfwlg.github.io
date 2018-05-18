@@ -4,13 +4,13 @@ url: "http://stfwlg.github.io"    # the protocol and hostname of your site, eg. 
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  Search.The.Fuckin.Web.Like.Google
 
 # Your information
 email: stfwlg@gmail.com
 author: Team STFWLG
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+profile: Search.The.Fuckin.Web.Like.Google
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
@@ -20,8 +20,8 @@ profile_links:
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-#disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
-#duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
+# disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
+duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 excerpt_separator: <!--more-->
 
