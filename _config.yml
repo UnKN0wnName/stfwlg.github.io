@@ -58,5 +58,3 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
   math_engine: mathjax
-  
-disqus_shortname: stfwlg-github-io
