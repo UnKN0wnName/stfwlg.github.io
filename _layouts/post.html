@@ -8,4 +8,4 @@ layout: default
   <br/>
   {{ content }}
 </div>
-
+{% if site.disqus-shortname %}{% include disqus.html %}{% endif %}
