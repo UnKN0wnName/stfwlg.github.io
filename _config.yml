@@ -12,7 +12,7 @@ author: Team STFWLG
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: Search.The.Fuckin.Web.Like.Google
 #twitter_username: twitter_username
-#github_username:  github_username
+github_username:  stfwlg
 profile_links:
   Email: "mailto:stfwlg@gmail.com"
   GitHub: "https://github.com/STFWLG/stfwlg.github.io"
@@ -20,8 +20,8 @@ profile_links:
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-# disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
-duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
+# disqus_shortname: stfwlg-github-io   # get one: https://disqus.com/admin/signup/
+# duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 excerpt_separator: <!--more-->
 
