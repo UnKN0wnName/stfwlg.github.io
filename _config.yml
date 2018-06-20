@@ -58,6 +58,5 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
   math_engine: mathjax
-
-disqus_url: https://stfwlg-github-io.disqus.com
-disqus_id: stfwlg-github-io
+  
+disqus_shortname: stfwlg-github-io
