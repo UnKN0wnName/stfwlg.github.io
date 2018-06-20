@@ -18,10 +18,7 @@ profile_links:
   GitHub: "https://github.com/STFWLG/stfwlg.github.io"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
-# Comment Service (Disqus or 多说)
-#  choose one and un-comment the line to active it
-# disqus_shortname: stfwlg-github-io   # get one: https://disqus.com/admin/signup/
-# duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
+disqus_shortname: stfwlg-github-io
 
 excerpt_separator: <!--more-->
 
