@@ -8,8 +8,8 @@ PORT = 4444
 
 s = remote(HOST, PORT)
 
-elf = ELF("./")
-#libc = ELF("./")
+elf = ELF("./elf_name")
+#libc = ELF("./libc_name")
 pause()
 
 s.interactive()
