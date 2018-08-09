@@ -21,11 +21,13 @@ tags: "#UnKN0wn"
 
 ![FIRST](/pic/reversing_kr/ransomware/FIRST.png)
 
-디버깅 툴을 이용해서 EP로 가봤어요. 첫부분 딱보니깐 패킹되어있는 파일이네요! 그럼 OEP를 찾고 트레이싱하면서 문자열들을 실행하는 함수를 찾았어요. 그 함수 안으로 `Step Into`해서 함수안으로 들어가봤어요. 그런데
+디버깅 툴을 이용해서 EP로 가봤어요. 첫부분 딱보니깐 패킹되어있는 파일이네요! 그럼 OEP를 찾고 트레이싱하면서 프로그램이 실행되는 부분의 함수를 찾았어요. 그 함수 안으로 `Step Into`해서 함수안으로 들어가봤어요.
+
+####그런데
 
 ![a](/pic/reversing_kr/ransomware/a.png)
 
-![what](/pic/reversing_kr/ransomware/what.jpg)
+<center>![what](/pic/reversing_kr/ransomware/what.jpg)</center>
 
 <center>무엇?</center>
 
