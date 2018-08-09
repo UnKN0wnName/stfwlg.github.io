@@ -27,7 +27,9 @@ tags: "#UnKN0wn"
 
 ![a](/pic/reversing_kr/ransomware/a.png)
 
-<center>![what](/pic/reversing_kr/ransomware/what.jpg)</center>
+{: refdef: style="text-align: center;"}
+![what](/pic/reversing_kr/ransomware/what.jpg)
+{: refdef}
 
 <center>무엇?</center>
 
